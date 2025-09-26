@@ -1,7 +1,6 @@
 streamlit
 pandas
-openpyxl
 requests
 python-dotenv
 streamlit-aggrid
-st-aggrid
+openpyxl
